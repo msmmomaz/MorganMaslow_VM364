@@ -5,15 +5,16 @@ Originally a mod of pacman, Superpac is a game that combines elements of pacman,
 
 ##Iteration 1
 The first iteration consisted of one player plays superpacman who runs around the board, collecting powerups placed in random locations on the board. Upon collecting a powerup, Superpacman chooses a card from a powerup card deck that gives a random one-use only powerup. Two other players play ghosts who try to get to superpacman.
-* Mechanic where when the ghosts collide, the ghosts both must respawn at their original spot.
-* Placed opposing game pieces in opposite corners instead of opposite sides.
-* Players’ superpacman and ghost cannot remain on the same square.
-* Players cannot move your piece back and forth between two squares more than once--this was implemented to prevent idling near the flag.
+
 
 ##Iternation 2
 ![Game Board]
 (http://sophiecalhoun.com/images/test1.png)
 In the second iteration, we significantly changed the gameplay. The game became more like a combination of chess, pacman, and capture the flag. It begins with two flags placed at two opposite ends of the board. It’s a two player game with each player each have 1 ghost (black) and 1 pacman (red). A player wins when your pacman gets the other player’s flag. The ghosts can attack the other player’s superpacman and send them back to their starting point. Each player takes turns moving both their ghost and their superpacman 1 space during their turn. You must move both pieces on your turn. In this version, ghosts can turn around, but cannot move back and forth between two squares to idle in place. We made several hotfixes as we played through this iteration, including:
+* Mechanic where when the ghosts collide, the ghosts both must respawn at their original spot.
+* Placed opposing game pieces in opposite corners instead of opposite sides.
+* Players’ superpacman and ghost cannot remain on the same square.
+* Players cannot move your piece back and forth between two squares more than once--this was implemented to prevent idling near the flag.
 ![Changed Board]
 (http://sophiecalhoun.com/images/test2.png)
 
