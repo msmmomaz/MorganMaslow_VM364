@@ -5,7 +5,12 @@ Originally a mod of pacman, Superpac is a game that combines elements of pacman,
 
 ##Iteration 1
 The first iteration consisted of one player plays superpacman who runs around the board, collecting powerups placed in random locations on the board. Upon collecting a powerup, Superpacman chooses a card from a powerup card deck that gives a random one-use only powerup. Two other players play ghosts who try to get to superpacman.
-
+* The powerups include:
+   1. Dash (move faster)
+   2. Freeze ghost for 2 turns
+   3. Move 2 sq
+* Superpacman wins when he collects all of the powerups.
+* The game played very imbalanced, and kept flipping between too easy for the ghosts or too easy for superpacman. We implemented several hotfixes including restricted ability of ghosts to move backwards, and tried changing increasing pacman’s speed in relation to the ghosts’.
 
 ##Iternation 2
 ![Game Board]
