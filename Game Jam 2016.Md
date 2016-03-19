@@ -6,6 +6,8 @@
 ##What is Game Jam
 
 <p>For those who don't know, Global Game Jam is a global event where people at sites world wide come together in order to complete a game in 48 hours. This is not limited to game designers, but includes writers, artists, sound designers, and even cheerleaders for those lacking experience, but not lacking spirit. I attended this years event in an artistic.</p>
+
+##Theme
 <p>Every year a theme is chosen to help narrow down game ideas. Every game must center around the theme. This year's theme was: </p>
 ######RITUAL
 
