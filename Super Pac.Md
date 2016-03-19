@@ -1,6 +1,6 @@
 ![Header Graphic] 
 (http://sophiecalhoun.com/images/SUPERPAC.jpg)
-#Super Pac
+#SUPERPAC
 Originally a mod of pacman, Superpac is a game that combines elements of pacman, chess, and capture the flag with a political theme.
 
 ##Iteration 1
@@ -29,4 +29,10 @@ For the third iteration, we printed out a newly designed board for the game, and
 ##Iteration 4 (Final)
 Our major change in this iteration was to change where the players’ ghosts (now called lawyers) spawned and would respawn upon colliding with another. We changed these to be the unused corners on the opposite sides of the board. This ended up changing the game a lot and reducing stalemates and easy wins, though stalemates still occurred. We also decided that there needed to be more interaction between the two red pieces, so after some playtests and feedback we decided that a red piece that is attacked by the opponent’s red piece must be sent back to its original spawn point.
 
+#SUPERPAC: A two player strategy about political intruige!
+
+##SETUP 
+Set up the game as shown in the diagram below:
+![Diagram]
+(http://sophiecalhoun.com/images/superpacmandiagram.png)
 
