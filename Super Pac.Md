@@ -20,6 +20,7 @@ In the second iteration, we significantly changed the gameplay. The game became 
 * Placed opposing game pieces in opposite corners instead of opposite sides.
 * Players’ superpacman and ghost cannot remain on the same square.
 * Players cannot move your piece back and forth between two squares more than once--this was implemented to prevent idling near the flag.
+
 ![Changed Board]
 (http://sophiecalhoun.com/images/test2.png)
 
