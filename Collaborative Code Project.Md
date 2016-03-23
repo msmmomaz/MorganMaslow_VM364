@@ -26,5 +26,7 @@ We are not familiar with Javascript, which we plan to use to make our website fu
 
 ##Potential Solutions 
 We will teach ourselves javascript, so we can utilize our early work in programs like textwrangler to create functions. We will also use regex for some of our statistics, although we will look at other sources when needed.
+![Javascript]
+(https://i.ytimg.com/vi/7jP-RKTOM48/maxresdefault.jpg)
 
 ##Idea Board 
