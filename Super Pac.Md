@@ -21,10 +21,11 @@ In the second iteration, we significantly changed the gameplay. The game became 
 * Players’ superpacman and ghost cannot remain on the same square.
 * Players cannot move your piece back and forth between two squares more than once--this was implemented to prevent idling near the flag.
 
+##ITERATION 3
+
 ![Changed Board]
 (http://sophiecalhoun.com/images/test2.png)
 
-##ITERATION 3
 For the third iteration, we printed out a newly designed board for the game, and playtested to introduce the following changes. We wanted to keep the game primarily strategy base, since players enjoyed the calculative moments of strategy in the game. This is why, despite considering adding powerups, we ultimately decided against it. To increase strategy, we implemented a new rule where players could move their pieces in any combination that would add up to three spaces (as in, they could move their ghost two spaces and their pacman one, or vice versa) but would always have to move both pieces. This increased the strategy of the game and prevented players from leaving their ghost to guard their flag. 
 
 ##ITERATION 4 (FINAL)
