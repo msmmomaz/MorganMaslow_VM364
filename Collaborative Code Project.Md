@@ -18,11 +18,13 @@ We'll be creating a website featuring easy-use-infographics about the treatment 
 
 ##Problem Domain 
 Our problem involves the current treatment of women in the media. We want to see what kind of tropes women of color and LGBT women fall into in TV and movies.
+![Scarlet]
+(http://www.themarysue.com/wp-content/uploads/2015/06/29-scarjo-age.nocrop.w529.h700.2x1-819x1024.png)
 
 ##Technical Challenges 
+We are not familiar with Javascript, which we plan to use to make our website functional and clean-looking, so that may be an issue. Another challenge may be getting regex functions to scrape the information we're looking for.
 ![Header]
 (https://www.planet-source-code.com/vb/2010Redesign/images/LangugeHomePages/HTML5_CSS_JavaScript.png)
-We are not familiar with Javascript, which we plan to use to make our website functional and clean-looking, so that may be an issue. Another challenge may be getting regex functions to scrape the information we're looking for.
 
 ##Potential Solutions 
 We will teach ourselves javascript, so we can utilize our early work in programs like textwrangler to create functions. We will also use regex for some of our statistics, although we will look at other sources when needed.
