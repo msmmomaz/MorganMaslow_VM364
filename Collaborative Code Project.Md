@@ -35,11 +35,23 @@ We will teach ourselves javascript, so we can utilize our early work in programs
 
 ##Research 
 * #HowMediaWritesWomenofColor - emerging hashtag comparing women of color with white women in the media.
-    source: https://bitchmedia.org/post/how-media-writes-woc-or-doesnt-twitter-conversation
-*
+    1. https://bitchmedia.org/post/how-media-writes-woc-or-doesnt-twitter-conversation
+* These are some articles and infographics breaking down women's roles in recent films
+    1. http://www.usnews.com/news/blogs/data-mine/2015/02/10/presence-of-female-film-protagonists-declined-in-2014-study-says
+    2. http://www.motherjones.com/media/2012/11/geena-davis-institute-women-girls-are-stereotyped-sexualized-hollywood
+    3. http://blog.tagesanzeiger.ch/datenblog/index.php/5772/wer-bei-tarantino-wie-umkommt
+    4. http://blog.tagesanzeiger.ch/datenblog/wp-content/uploads/sites/32/2014/09/G-11-640x411.jpg
+* Here's an article about the involvement of women, both in front of and behind the camera, in various countries. 
+    1. https://bitchmedia.org/post/what-country-has-the-best-gender-equity-in-film
+* Feminism is For Everyone: closely looks at intersectional feminism as a theory.
+    1. https://books.google.com/books?id=0au7QbAJH0gC&printsec=frontcover&dq=intersectional+feminism&hl=en&sa=X&ved=0ahUKEwjd6eiuhdjLAhUD2R4KHaKiCeAQ6AEIIjAB#v=onepage&q&f=false
+* Geena Davis Institute on Gender in Media will probably be a good source of information.
+    1. seejane.org
 
 ##Idea Board 
 ![Infographic]
 (https://infographiclist.files.wordpress.com/2011/09/infographic.png)
 ![Responsive images]
 (http://www.awwwards.com/awards/images/2014/10/60-awww-responsive.jpg)
+![Stuff]
+(http://blackyouthproject.com/wp-content/uploads/2016/01/elle-priyanka-viola-taraji.jpg)
