@@ -20,6 +20,8 @@ We'll be creating a website featuring easy-use-infographics about the treatment 
 Our problem involves the current treatment of women in the media. We want to see what kind of tropes women of color and LGBT women fall into in TV and movies.
 ![Scarlet]
 (http://www.themarysue.com/wp-content/uploads/2015/06/29-scarjo-age.nocrop.w529.h700.2x1-819x1024.png)
+![Johny Depp]
+(http://www.slate.com/content/dam/slate/blogs/browbeat/2015/05/26/leading_men_age_but_their_love_interest_don_t/men3.png.CROP.original-original.png)
 
 ##Technical Challenges 
 We are not familiar with Javascript, which we plan to use to make our website functional and clean-looking, so that may be an issue. Another challenge may be getting regex functions to scrape the information we're looking for.
