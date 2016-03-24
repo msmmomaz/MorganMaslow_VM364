@@ -34,5 +34,8 @@ We will teach ourselves javascript, so we can utilize our early work in programs
 (https://i.ytimg.com/vi/7jP-RKTOM48/maxresdefault.jpg)
 
 ##Research 
+* #HowMediaWritesWomenofColor - emerging hashtag comparing women of color with white women in the media.
+    source: https://bitchmedia.org/post/how-media-writes-woc-or-doesnt-twitter-conversation
+*
 
 ##Idea Board 
