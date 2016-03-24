@@ -39,3 +39,7 @@ We will teach ourselves javascript, so we can utilize our early work in programs
 *
 
 ##Idea Board 
+![Infographic]
+(https://infographiclist.files.wordpress.com/2011/09/infographic.png)
+![Responsive images]
+(http://www.awwwards.com/awards/images/2014/10/60-awww-responsive.jpg)
