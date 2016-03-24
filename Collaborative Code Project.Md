@@ -53,5 +53,7 @@ We will teach ourselves javascript, so we can utilize our early work in programs
 (https://infographiclist.files.wordpress.com/2011/09/infographic.png)
 ![Responsive images]
 (http://www.awwwards.com/awards/images/2014/10/60-awww-responsive.jpg)
+![Website]
+(http://www.webdesign-inspiration.com/uploads/design/joy-interactive-com-13528.jpg)
 ![Stuff]
 (http://blackyouthproject.com/wp-content/uploads/2016/01/elle-priyanka-viola-taraji.jpg)
