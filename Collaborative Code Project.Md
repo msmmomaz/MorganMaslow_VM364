@@ -33,4 +33,6 @@ We will teach ourselves javascript, so we can utilize our early work in programs
 ![Javascript]
 (https://i.ytimg.com/vi/7jP-RKTOM48/maxresdefault.jpg)
 
+##Research 
+
 ##Idea Board 
