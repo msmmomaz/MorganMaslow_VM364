@@ -23,7 +23,7 @@ Create a C# file. Type the below script into the script editor:
 ![Script]
 (http://i.imgur.com/pzvH7IM.png)
 
-Make sure the name of the script and class match or the script will not work. 
+Make sure the name of the script and class match or the script will not work. The script has a loop function that loops the animation. If you only want the animation to play once, simply delete the loop function in the script.
 
 ##Step Four: Attach to Plane and Add .Mov File in Appropriate Spots 
 Attach the script to the plane. Go to the inspector and add the .mov file to the Mov Texture attribute.
