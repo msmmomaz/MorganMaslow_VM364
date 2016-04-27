@@ -11,3 +11,8 @@ For our project we wanted to have 2D animations play during our Start and Restar
 Draw an animation in software such as Photoshop or make a Render a 3D animation using After Effects. The animation MUST be a .mov file since the script used in this tutorial does NOT support other files. Photoshop renders animations out as .mp4's but you can use any pnline sources to change the file. 
 
 Here is a helpful conversion website: http://video.online-convert.com/convert-to-mov
+
+##Step Two: Make a Plane 
+![Plane]
+(http://i.imgur.com/lgFp7XZ.png)
+Create a plane in your scene. Rotate it to face the camera and adjust to make sure your plane is properly lit. If the plane isn't lit properly the animation WILL NOT show up.
