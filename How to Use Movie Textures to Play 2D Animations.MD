@@ -16,3 +16,11 @@ Here is a helpful conversion website: http://video.online-convert.com/convert-to
 ![Plane]
 (http://i.imgur.com/lgFp7XZ.png)
 Create a plane in your scene. Rotate it to face the camera and adjust to make sure your plane is properly lit. If the plane isn't lit properly the animation WILL NOT show up.
+
+##Step Three: Create Script
+Create a C# file. Type the below script into the script editor:
+
+![Script]
+(http://i.imgur.com/pzvH7IM.png)
+
+Make sure the name of the script and class match or the script will not work.
