@@ -30,3 +30,10 @@ Attach the script to the plane. Go to the inspector and add the .mov file to the
 ![Mov Texture]
 (http://i.imgur.com/nLlSBMp.png)
 Then drag the .mov onto the Plane to add it as a texture. Press play and enjoy your animation.
+
+##Sources:
+![Source 1]
+(http://i.imgur.com/3IrhRr9.png)
+
+![Source 2]
+(http://i.imgur.com/5xRkixS.png)
